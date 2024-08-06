@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(177, 146, 111) !important;
+    color: white !important;
+    min-width: 100vw;
+    min-height: 100vh;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(51, 51, 51);
+    height: 12vh;
+    width: 100vw;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    font-size: 2vw;
+}
+
+main {
+    text-align: center;
+}
+
+
+header {
+    background-color: rgb(51, 51, 51);
+    height: 12vh;
+    width: 100vw;
+    color: white;
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+    margin-right: 15vw;
+}
+
+.middle {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+    margin-left: 15vw;
+}
+
+nav {
+    padding: 20px;
+    font-size: 2vw;
+    padding-bottom: 25px;
+}
+
+
+.space {
+    margin-top: 2vh;
+    padding-bottom: 0vw;
+}
+
+.email {
+    font-size: 1vw;
+    margin-top: 0vw !important;
+    padding: 0vw !important;
+}
+
+.intro {
+    margin-top: 8vh;
+    font-size: 3vh;
+    width: 30vw;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    width: 40vw;
+    height: 30vh;
+}
